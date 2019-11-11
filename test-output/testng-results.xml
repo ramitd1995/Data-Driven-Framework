@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="129407" started-at="2019-11-11T15:02:26Z" finished-at="2019-11-11T15:04:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="129407" started-at="2019-11-11T15:02:26Z" finished-at="2019-11-11T15:04:36Z">
+      <class name="testRunner.TestRunner">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="setUp" is-config="true" duration-ms="12624" started-at="2019-11-11T20:32:27Z" finished-at="2019-11-11T20:32:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_func(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testRunner.TestRunner@482f8f11]" name="test_func" duration-ms="11431" started-at="2019-11-11T20:32:39Z" data-provider="getData" finished-at="2019-11-11T20:32:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_func -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="tearDown" is-config="true" duration-ms="616" started-at="2019-11-11T20:32:51Z" finished-at="2019-11-11T20:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="setUp" is-config="true" duration-ms="13381" started-at="2019-11-11T20:32:52Z" finished-at="2019-11-11T20:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_func(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testRunner.TestRunner@482f8f11]" name="test_func" duration-ms="11583" started-at="2019-11-11T20:33:05Z" data-provider="getData" finished-at="2019-11-11T20:33:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hcl]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shubham]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shubham@hcl.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.81012345E8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_func -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="tearDown" is-config="true" duration-ms="705" started-at="2019-11-11T20:33:16Z" finished-at="2019-11-11T20:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="setUp" is-config="true" duration-ms="13599" started-at="2019-11-11T20:33:17Z" finished-at="2019-11-11T20:33:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_func(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testRunner.TestRunner@482f8f11]" name="test_func" duration-ms="11633" started-at="2019-11-11T20:33:31Z" data-provider="getData" finished-at="2019-11-11T20:33:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amazon]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akansha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[akansha@amazon.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[654321.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[7.65123344E8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_func -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="tearDown" is-config="true" duration-ms="612" started-at="2019-11-11T20:33:42Z" finished-at="2019-11-11T20:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="setUp" is-config="true" duration-ms="11555" started-at="2019-11-11T20:33:43Z" finished-at="2019-11-11T20:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_func(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testRunner.TestRunner@482f8f11]" name="test_func" duration-ms="11639" started-at="2019-11-11T20:33:55Z" data-provider="getData" finished-at="2019-11-11T20:34:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[grapecity]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kunal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kunal@grapecity.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[987670.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.712097467E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_func -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="tearDown" is-config="true" duration-ms="703" started-at="2019-11-11T20:34:06Z" finished-at="2019-11-11T20:34:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="setUp" is-config="true" duration-ms="16437" started-at="2019-11-11T20:34:07Z" finished-at="2019-11-11T20:34:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_func(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testRunner.TestRunner@482f8f11]" name="test_func" duration-ms="11607" started-at="2019-11-11T20:34:23Z" data-provider="getData" finished-at="2019-11-11T20:34:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apple]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[harsh@apple.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[876172.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8.87618293E8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_func -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testRunner.TestRunner@482f8f11]" name="tearDown" is-config="true" duration-ms="640" started-at="2019-11-11T20:34:35Z" finished-at="2019-11-11T20:34:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testRunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
